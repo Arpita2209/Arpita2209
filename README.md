@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hi, I'm Paras Akash Sharma</h1>
+<h1 align="center">👋 Hi, I'm Arpita Satya</h1>
 <h3 align="center">🚀 Aspiring Full Stack Developer | Web Developer</h3>
 
 <p align="center">
@@ -72,7 +72,7 @@
 
 <h2>📫 Contact</h2>
 <ul>
-  <li><strong>Phone:</strong> 8149860112</li>
+  <li><strong>Phone:</strong> 7499638817</li>
   <!-- Add these when ready -->
   <!-- <li><strong>Email:</strong> your-email@example.com</li> -->
   <!-- <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/your-profile" target="_blank">Your LinkedIn</a></li> -->
