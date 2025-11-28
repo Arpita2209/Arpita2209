@@ -1,99 +1,69 @@
+# 👋 Hi, I'm Arpita Satyawan Sarode
 
-<h1 align="center">👋 Hi, I'm Arpita Satyawan Sarode</h1>
-<h3 align="center">🚀 Aspiring Full Stack Developer | Web Developer</h3>
+### 🚀 Aspiring Full Stack Developer | Web Developer
 
-<p align="center">
-  I'm a passionate web developer focused on creating clean, responsive, and user-friendly digital experiences.  
-  Currently learning and building projects with modern web technologies while growing into full‑stack development.
-</p>
+I'm a passionate web developer focused on creating **clean, responsive, and user-friendly digital experiences**.  
+Currently learning and building projects with modern web technologies while growing into **full‑stack development**.
 
-<hr />
+---
 
-<h2>🔧 Tech Stack</h2>
+## 🔧 Tech Stack
 
-<h3>Frontend</h3>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-</ul>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<h3>Tools &amp; Platforms</h3>
-<ul>
-  <li>Git &amp; GitHub</li>
-  <li>VS Code</li>
-  <li>Chrome DevTools</li>
-</ul>
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<h3>Currently Learning</h3>
-<ul>
-  <li>React</li>
-  <li>Node.js</li>
-  <li>MySQL</li>
-</ul>
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 
-<hr />
+### Currently Learning
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h2>📌 What I’m Working On</h2>
-<ul>
-  <li>Improving core JavaScript skills</li>
-  <li>Building real‑world web projects</li>
-  <li>Exploring backend development with Node.js and databases</li>
-  <li>Practicing problem solving and coding challenges</li>
-</ul>
+---
 
-<hr />
+## 📌 What I’m Working On
+- Improving **core JavaScript and programming skills**
+- Building **real-world web projects**
+- Exploring **backend development** with Node.js and databases
+- Practicing **problem solving and coding challenges**
 
-<h2>📂 Projects</h2>
-<p><em>(Update these with real GitHub repo links as you build them.)</em></p>
-<ul>
-  <li>
-    <strong>🌐 Portfolio Website</strong> – A personal website showcasing my skills, projects, and journey as a developer.
-  </li>
-  <li>
-    <strong>🧮 JavaScript Mini Apps</strong> – Small projects like a calculator, notes app, and UI animations to sharpen JS fundamentals.
-  </li>
-  <li>
-    <strong>🎨 UI Layouts</strong> – Responsive frontend designs focused on clean, accessible user interfaces.
-  </li>
-</ul>
+---
 
-<hr />
+## 📂 Projects
+> _Update these with real GitHub repo links as you build them._
 
-<h2>🌱 About Me</h2>
-<ul>
-  <li>I learn best by building and experimenting with real projects.</li>
-  <li>I enjoy designing clean, minimal user interfaces.</li>
-  <li>I focus on improving at least 1% every day.</li>
-  <li>Writing clean, readable, and maintainable code is a priority.</li>
-</ul>
+- **🌐 [Portfolio Website](#)** – Personal website showcasing my skills, projects, and journey.
+- **🧮 [JavaScript Mini Apps](#)** – Small projects like a calculator, notes app, and UI animations.
+- **🎨 [UI Layouts](#)** – Responsive frontend designs focused on **clean, accessible UIs**.
 
-<hr />
+---
 
-<h2>📫 Contact</h2>
-<ul>
-  <li><strong>Phone:</strong> 7499638817</li>
-  <!-- Add these when ready -->
-  <!-- <li><strong>Email:</strong> your-email@example.com</li> -->
-  <!-- <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/your-profile" target="_blank">Your LinkedIn</a></li> -->
-</ul>
+## 🌱 About Me
+- I learn best by **building and experimenting** with real projects.
+- I enjoy designing **clean, minimal user interfaces**.
+- I focus on improving **1% every day**.
+- Writing **clean, readable, and maintainable code** is a priority.
 
-<hr />
+---
+
+## 📫 Contact
+- 📞 Phone: 8149860112  
+- ✉️ Email: `your-email@example.com` _(add when ready)_  
+- 🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile) _(add when ready)_
+
+---
 
 <p align="center">
   <em>Thanks for visiting my profile! Feel free to check out my repositories and follow my learning journey.</em>
 </p>
-<!--
-**Arpita2209/Arpita2209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
